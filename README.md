@@ -10,7 +10,7 @@ Understand the fundamental principles of programming using the C++ language.
 - Apply object-oriented programming principles to design and implement efficient and reusable code.
 - Develop the ability to analyze and optimize algorithms for solving engineering problems.
 
-# *Week 1: Introduction to C++ Programming
+# Week 1: Introduction to C++ Programming
 - Overview of programming concepts
 - Setting up development environment
 - [Writing and compiling a basic C++ program](https://www.youtube.com/watch?v=imNlJohlLPk&pp=ygUkT3ZlcnZpZXcgb2YgYysrIHByb2dyYW1taW5nIGNvbmNlcHRz)
@@ -21,18 +21,18 @@ Understand the fundamental principles of programming using the C++ language.
 - Looping with for, while, and do-while loops
 - Nested loops and loop control statements
 
-# *Week 3: Functions
+# Week 3: Functions
 - Understanding functions and their role in programming
 - Function declaration, definition, and invocation
 - Passing arguments by value and by reference
 - Function overloading and recursion
 
-# *Week 4: Arrays and Strings
+# Week 4: Arrays and Strings
 - Introduction to arrays and their representation in memory
 - Working with one-dimensional and multidimensional arrays
 - Manipulating strings and string handling functions
 
-# *Week 5: Pointers and Dynamic Memory Allocation*
+# Week 5: Pointers and Dynamic Memory Allocation
 - Introduction to pointers and memory addresses
 - Dynamic memory allocation and deallocation
 - Pointers and arrays, pointer arithmetic
@@ -42,12 +42,12 @@ Understand the fundamental principles of programming using the C++ language.
 - Encapsulation, inheritance, and polymorphism
 - Constructors and destructors
 
-# *Week 7: Classes and Objects*
+# Week 7: Classes and Objects
 - Defining classes and creating objects
 - Access specifiers and member functions
 - Constructors, destructors, and member initialization
 
-# *Week 8: Inheritance and Polymorphism*
+# Week 8: Inheritance and Polymorphism
 - Extending classes through inheritance
 - Implementing polymorphism using virtual functions
 - Understanding function overriding and function overloading
@@ -57,12 +57,12 @@ Understand the fundamental principles of programming using the C++ language.
 - Reading from and writing to text files
 - Error handling and file manipulation
 
-# *Week 10: Exception Handling*
+# Week 10: Exception Handling
 - Understanding exceptions and exception handling mechanisms
 - try, catch, and throw statements
 - Exception specifications and handling multiple exceptions
 
-# *Week 11: Advanced Topics*
+# Week 11: Advanced Topics
 - Templates and generic programming
 - Standard Template Library (STL) containers and algorithms
 - Introduction to C++11 features (e.g., auto keyword, lambda expressions)
