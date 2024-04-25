@@ -13,7 +13,7 @@ Understand the fundamental principles of programming using the C++ language.
 # *Week 1: Introduction to C++ Programming*
 - Overview of programming concepts
 - Setting up development environment
-- Writing and compiling a basic C++ program
+- [Writing and compiling a basic C++ program](https://www.youtube.com/watch?v=imNlJohlLPk&pp=ygUkT3ZlcnZpZXcgb2YgYysrIHByb2dyYW1taW5nIGNvbmNlcHRz)
 - Variables, data types, and operators
 
 # Week 2: Control Structures
@@ -78,10 +78,9 @@ Understand the fundamental principles of programming using the C++ language.
 - Group projects to encourage collaboration and application of programming skills to real-world problems
 - Code reviews and peer evaluations to promote constructive feedback and improvement
 
-Assessment:
+# *Assessment:*
 - Weekly quizzes to evaluate understanding of theoretical concepts
 - Programming assignments and projects to assess practical application of programming skills
 - Midterm and final exams covering both theoretical and practical aspects of the course
 - Participation in class activities and engagement in discussions
 
-Note: The course outline and activities can be adjusted based on the pace of learning and specific requirements of the students.
