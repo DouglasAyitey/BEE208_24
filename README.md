@@ -1,9 +1,9 @@
-#Introduction to C++ Programming* 
+# Introduction to C++ Programming
 
-# *Course Description:*
+# Course Description:
 This course provides a comprehensive introduction to the C++ programming language tailored for students in electrical engineering. Through a combination of theoretical concepts and practical exercises, students will develop a solid foundation in programming techniques necessary for solving engineering problems. Topics covered include basic syntax, data types, control structures, functions, arrays, pointers, object-oriented programming principles, and input/output operations.
 
-# *Course Objectives:*
+# Course Objectives:
 Understand the fundamental principles of programming using the C++ language.
 - Develop problem-solving skills by applying programming concepts to electrical engineering problems.
 - Gain proficiency in writing, compiling, debugging, and testing C++ programs.
