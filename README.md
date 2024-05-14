@@ -13,6 +13,9 @@ Understand the fundamental principles of programming using the C++ language.
 # Week 1: Introduction to C++ Programming
 - Overview of programming concepts
 - Setting up development environment
+  - [VScode](https://www.youtube.com/watch?v=9VE7p-he4fA&t=193s)
+  - [DevC++](https://www.youtube.com/watch?v=F9LcfFlDIJs)
+- [Installing Git, GitHub](https://www.youtube.com/watch?v=hrTQipWp6co&t=932s)
 - [Writing and compiling a basic C++ program](https://www.youtube.com/watch?v=imNlJohlLPk&pp=ygUkT3ZlcnZpZXcgb2YgYysrIHByb2dyYW1taW5nIGNvbmNlcHRz)
 - Variables, data types, and operators
 
@@ -67,19 +70,26 @@ Understand the fundamental principles of programming using the C++ language.
 - Standard Template Library (STL) containers and algorithms
 - Introduction to C++11 features (e.g., auto keyword, lambda expressions)
 
-# *Week 12: Project Work and Review*
+# Week 12: Project Work and Review
 - Apply concepts learned throughout the course to solve engineering problems
 - Work on a project to demonstrate proficiency in C++ programming
 - Review of course material and preparation for assessments
 
-# *Activities:*
+# Activities:
 - Weekly programming assignments to reinforce concepts learned in class
 - In-class coding exercises and lab sessions for hands-on practice
 - Group projects to encourage collaboration and application of programming skills to real-world problems
 - Code reviews and peer evaluations to promote constructive feedback and improvement
 
-# *Assessment:*
+# Assessment:
 - Weekly quizzes to evaluate understanding of theoretical concepts
 - Programming assignments and projects to assess practical application of programming skills
 - Midterm and final exams covering both theoretical and practical aspects of the course
 - Participation in class activities and engagement in discussions
+
+# Self-paced Learners Corner
+ - [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8&t=47s&pp=ygUxT3ZlcnZpZXcgb2YgcHJvZ3JhbW1pbmcgY29uY2VwdHMgaW4gYysrIGluIDIgbWlucw%3D%3D)
+ - [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=2434s)
+ - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=44s)
+ - [Object Oriented Programming (OOP) in C++ Course](https://www.youtube.com/watch?v=wN0x9eZLix4)
+ - [C++ Full Course for free](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=6s)
